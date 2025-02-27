@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+ --cor-principal:#DB2222;
+ --cor1:#2f4858;
+ --cor2:#63498a;
+ --cor3:#c9115e;
+ --cor4:#9c3683;
+ --preto:#000000;
+ --branco:#FFFFFF;
+} 
+
+body {
+    font-size:1rem;
+    font-family:'Nunito Sans';
+
+}
+
+
+
+
